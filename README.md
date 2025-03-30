@@ -31,8 +31,10 @@ Implementation Details:
     Characters are generated using ASCII codes between 65 and 122 (A-Z and additional characters).
 
     The program introduces a slight delay for decorative purposes during password generation.
-    ## tags
-    - Go
+    
+    
+# tags
+- Go
 
 - Password-Manager
 
