@@ -33,6 +33,10 @@ Implementation Details:
     The program introduces a slight delay for decorative purposes during password generation.
     
     
+# installing
+-this tool helping you in install
+-Important point : (go most install in your linux Device)
+-`https://github.com/Blaster-Void/golanginstaller-bash` type `./installer main.go pgen` and done 
 # tags
 - Go
 
