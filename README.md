@@ -34,9 +34,9 @@ Implementation Details:
     
     
 # installing
--this tool helping you in install
--Important point : (go most install in your linux Device)
--`https://github.com/Blaster-Void/golanginstaller-bash` type `./installer main.go pgen` and done 
+- this tool helping you in install
+- Important point : (go most install in your linux Device)
+- `https://github.com/Blaster-Void/golanginstaller-bash` type `./installer main.go pgen` and done 
 # tags
 - Go
 
